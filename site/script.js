@@ -1,4 +1,4 @@
-const url = "https://raw.githubusercontent.com/SEU_USUARIO/galeria-anime/main/personagens.json";
+const url = "https://raw.githubusercontent.com/cloudstrife5661-afk/galeria-anime/main/personagens.json";
 
 fetch(url)
 .then(res => res.json())
