@@ -1,1 +1,19 @@
-
+{
+  "personagens": [
+    {
+      "nome": "Angela",
+      "id": "angela",
+      "capa": "https://raw.githubusercontent.com/SEU_USUARIO/galeria-anime/main/personagens/angela/01.png"
+    },
+    {
+      "nome": "Zeraora",
+      "id": "zeraora",
+      "capa": "https://raw.githubusercontent.com/SEU_USUARIO/galeria-anime/main/personagens/zeraora/01.png"
+    },
+    {
+      "nome": "Umbreon",
+      "id": "umbreon",
+      "capa": "https://raw.githubusercontent.com/SEU_USUARIO/galeria-anime/main/personagens/umbreon/01.png"
+    }
+  ]
+}
