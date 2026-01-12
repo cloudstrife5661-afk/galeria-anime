@@ -16,7 +16,7 @@ const id = params.get("id");
 
 document.getElementById("titulo").innerText = id.toUpperCase();
 
-fetch(`https://raw.githubusercontent.com/SEU_USUARIO/galeria-anime/main/personagens/${id}/${id}.json`)
+fetch(`https://raw.githubusercontent.com/cloudstrife5661-afk/galeria-anime/main/personagens/${id}/${id}.json`)
 .then(res => res.json())
 .then(data => {
   const galeria = document.getElementById("galeria");
